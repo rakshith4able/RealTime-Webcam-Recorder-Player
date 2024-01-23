@@ -1,4 +1,4 @@
-# Lab Assignment 3 submission by 40235325 (Rakshith Raj Gurupura Puttaraju) and 40227041 (Harika Maddukuri)
+# Project by Rakshith Raj Gurupura Puttaraju and Harika Maddukuri
 
 ## client
 
